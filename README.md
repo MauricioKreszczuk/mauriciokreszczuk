@@ -1,4 +1,4 @@
-# Hola, soy Oscar Mauricio Kreszczuk 👋
+# Oscar Mauricio Kreszczuk
 
 Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nacional de San Martín (UNSAM). Mi enfoque está orientado al desarrollo de software fuertemente tipado, la optimización de arquitecturas de bases de datos y el modelado analítico y probabilístico.
 
