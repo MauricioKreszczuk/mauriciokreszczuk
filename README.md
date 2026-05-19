@@ -6,12 +6,12 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 
 ## Proyectos Destacados
 
-### [CotizAR - Backend de Instrumentos Financieros](https://github.com/tu-usuario/financial-instruments-api)
+### [CotizAR - Backend de Instrumentos Financieros](https://github.com/MauricioKreszczuk/CotizAR-TPI-Programacion-2)
 * **Descripción:** API REST funcional diseñada para la extracción, persistencia y exposición de cotizaciones de activos del mercado argentino en tiempo real.
 * **Componentes clave:** Módulo de web scraping automatizado para ingesta de datos crudos (bonos, letras, plazos fijos, dólares y bandas cambiarias), subsistema de autenticación de usuarios y arquitectura orientada a eventos para alertas de variaciones.
 * **Stack:** Python, FastAPI, Docker, PostgreSQL, Contenedores listos para despliegue en Render.
 
-### [Java DataFrame Engine](https://github.com/tu-usuario/java-dataframe-engine)
+### [Java DataFrame Engine](https://github.com/MauricioKreszczuk/Estructura-Tabular-en-Java-TPI-Algoritmos-1)
 * **Descripción:** Diseño e implementación integral desde cero de una biblioteca nativa para la manipulación, filtrado y limpieza de estructuras de datos tabulares bidimensionales sin dependencias externas.
 * **Componentes clave:** Uso estricto de genéricos y polimorfismo para modelar columnas fuertemente tipadas, tratamiento preciso de datos faltantes (*Missing Data*), motores de inferencia para parseo de archivos CSV y algoritmos de imputación dinámica.
 * **Stack:** Java, Programación Orientada a Objetos, Control Avanzado de Excepciones.
@@ -25,7 +25,7 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 
 ## Prácticas Académicas y Laboratorios
 
-* **[Inferencia y Modelado Estadístico Avanzado](https://github.com/tu-usuario/statistical-inference-modeling):** Repositorio analítico enfocado en simulaciones numéricas, estimación de parámetros (frecuentista), diagnóstico de multicolinealidad en regresión múltiple y modelado probabilístico bajo el paradigma bayesiano (Prior Predictiva y Likelihood) usando `scipy.stats` y `matplotlib`.
+* **[Inferencia y Modelado Estadístico Avanzado](https://github.com/MauricioKreszczuk/estadistica-inferencia-1-practicas):** Repositorio analítico enfocado en simulaciones numéricas, estimación de parámetros (frecuentista), diagnóstico de multicolinealidad en regresión múltiple y modelado probabilístico bajo el paradigma bayesiano (Prior Predictiva y Likelihood) usando `scipy.stats` y `matplotlib`.
 * **[Patrones de Diseño de Software](https://github.com/MauricioKreszczuk/design-patterns-python):** Suite de laboratorios enfocada en la implementación de patrones de arquitectura (*Factory Method, Abstract Factory, Decorator, Observer*) bajo principios SOLID, optimizando el desacoplamiento mediante composición y migración de modelos de comunicación de estado (Push a Pull).
 * **[Procesamiento Digital de Imágenes](https://github.com/MauricioKreszczuk/practicas-vision-por-computadora):** Ejercicios de exploración base, transformaciones matriciales de color y análisis de canales de imágenes utilizando `OpenCV` y computación científica en cuadernos de Jupyter.
 
