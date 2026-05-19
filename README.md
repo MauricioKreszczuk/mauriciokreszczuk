@@ -4,7 +4,7 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### [CotizAR - Backend de Instrumentos Financieros](https://github.com/tu-usuario/financial-instruments-api)
 * **Descripción:** API REST funcional diseñada para la extracción, persistencia y exposición de cotizaciones de activos del mercado argentino en tiempo real.
