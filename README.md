@@ -12,9 +12,9 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 * **Stack:** Python, FastAPI, Docker, PostgreSQL, Contenedores listos para despliegue en Render.
 
 ### [Simpsons Bounding-Box Localizer & Classifier — Modelo Multi-Output](https://github.com/MauricioKreszczuk/simpsons-computer-vision)
-* **Descripción:** Diseño e implementación de una arquitectura de red neuronal convolucional *multi-output* para realizar simultáneamente tareas de clasificación y localización espacial (*bounding boxes*) de objetos en imágenes complejas[cite: 2].
-* **Componentes clave:** Uso de *Transfer Learning* (`MobileNetV2` congelada como extractor de características abstractas) acoplado a una función de pérdida ponderada personalizada ($\text{Loss}_{\text{Total}} = 1.0 \cdot \text{Loss}_{\text{Clase}} + 2.0 \cdot \text{Loss}_{\text{Caja}}$) para equilibrar la convergencia de variables continuas y discretas[cite: 2]. Tratamiento, balanceo y estratificación de un dataset con alta proximidad cromática y ruido visual de fondo[cite: 2].
-* **Stack:** Python, TensorFlow, Keras, OpenCV (cv2), Scikit-Learn[cite: 1].
+* **Descripción:** Diseño e implementación de una arquitectura de red neuronal convolucional multi-output para realizar simultáneamente tareas de clasificación y localización espacial (bounding boxes) de objetos en imágenes complejas.
+* **Componentes clave:** Uso de Transfer Learning (MobileNetV2 congelada como extractor de características abstractas) acoplado a una función de pérdida ponderada personalizada (Loss_Total = 1.0 * Loss_Clase + 2.0 * Loss_Caja) para equilibrar la convergencia de variables continuas y discretas. Tratamiento, balanceo y estratificación de un dataset con alta proximidad cromática y ruido visual de fondo.
+* **Stack:** Python, TensorFlow, Keras, OpenCV (cv2), Scikit-Learn.
 
 ### [Java DataFrame Engine](https://github.com/MauricioKreszczuk/Estructura-Tabular-en-Java-TPI-Algoritmos-1)
 * **Descripción:** Diseño e implementación integral desde cero de una biblioteca nativa para la manipulación, filtrado y limpieza de estructuras de datos tabulares bidimensionales sin dependencias externas.
