@@ -11,6 +11,11 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 * **Componentes clave:** Módulo de web scraping automatizado para ingesta de datos crudos (bonos, letras, plazos fijos, dólares y bandas cambiarias), subsistema de autenticación de usuarios y arquitectura orientada a eventos para alertas de variaciones.
 * **Stack:** Python, FastAPI, Docker, PostgreSQL, Contenedores listos para despliegue en Render.
 
+### [Simpsons Bounding-Box Localizer & Classifier — Modelo Multi-Output](https://github.com/MauricioKreszczuk/simpsons-computer-vision)
+* **Descripción:** Diseño e implementación de una arquitectura de red neuronal convolucional *multi-output* para realizar simultáneamente tareas de clasificación y localización espacial (*bounding boxes*) de objetos en imágenes complejas[cite: 2].
+* **Componentes clave:** Uso de *Transfer Learning* (`MobileNetV2` congelada como extractor de características abstractas) acoplado a una función de pérdida ponderada personalizada ($\text{Loss}_{\text{Total}} = 1.0 \cdot \text{Loss}_{\text{Clase}} + 2.0 \cdot \text{Loss}_{\text{Caja}}$) para equilibrar la convergencia de variables continuas y discretas[cite: 2]. Tratamiento, balanceo y estratificación de un dataset con alta proximidad cromática y ruido visual de fondo[cite: 2].
+* **Stack:** Python, TensorFlow, Keras, OpenCV (cv2), Scikit-Learn[cite: 1].
+
 ### [Java DataFrame Engine](https://github.com/MauricioKreszczuk/Estructura-Tabular-en-Java-TPI-Algoritmos-1)
 * **Descripción:** Diseño e implementación integral desde cero de una biblioteca nativa para la manipulación, filtrado y limpieza de estructuras de datos tabulares bidimensionales sin dependencias externas.
 * **Componentes clave:** Uso estricto de genéricos y polimorfismo para modelar columnas fuertemente tipadas, tratamiento preciso de datos faltantes (*Missing Data*), motores de inferencia para parseo de archivos CSV y algoritmos de imputación dinámica.
@@ -39,4 +44,4 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 * **Herramientas de Desarrollo:** Git, GitHub, Docker, VS Code, Jupyter Notebooks.
 
 ---
- **Contacto:** kmauricio161@gmail.com | [LinkedIn](https://linkedin.com/in/mauricio-kreszczuk)
+[LinkedIn](https://linkedin.com/in/mauricio-kreszczuk)
