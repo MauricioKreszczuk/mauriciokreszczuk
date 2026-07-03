@@ -40,7 +40,7 @@ Estudiante avanzado de la Licenciatura en Ciencia de Datos en la Universidad Nac
 
 * **Lenguajes:** Python, Java, SQL, R.
 * **Bases de Datos & Cloud:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Google Cloud Platform (GCP).
-* **Data Science & ML:** Pandas, NumPy, Scikit-learn, SciPy, ArviZ, OpenCV (cv2).
+* **Data Science, CV & Deep Learning:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn, SciPy, ArviZ, OpenCV (cv2).
 * **Herramientas de Desarrollo:** Git, GitHub, Docker, VS Code, Jupyter Notebooks.
 
 ---
